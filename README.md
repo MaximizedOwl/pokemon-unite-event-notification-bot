@@ -1,0 +1,2 @@
+# pokemon-unite-event-notification-bot
+Tonamelに登録されたポケモンユナイトの新しいイベントを通知するアプリケーション
